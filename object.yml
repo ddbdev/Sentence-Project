@@ -5,4 +5,5 @@ spring:
 
 asw.sentence:
   wordservice:
-    words: object
+    words: cats,pizza,spring,my cat
+
