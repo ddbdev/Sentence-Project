@@ -5,4 +5,4 @@ spring:
 
 asw.sentence:
   wordservice:
-    words: subject
+    words: Ann, Mary, John, My dog
