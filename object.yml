@@ -1,9 +1,1 @@
-spring:
-  config:
-    activate:
-      on-profile: object
-
-asw.sentence:
-  wordservice:
-    words: cats,pizza,spring,my cat
 
