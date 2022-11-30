@@ -1,0 +1,27 @@
+server:
+  port: 8090
+
+spring:
+  application:
+    name: msgateway
+  cloud:
+    gateway:
+      routes:
+      discovery:
+        locator:
+          enabled: true
+          lower-case-service-id: true
+
+logging:
+  level:
+    org:
+      springframework:
+        cloud:
+          gateway: trace
+        web:
+          server: trace
+
+eureka:
+  client:
+    service-url:
+      default-zone: http:localhost:8761/eureka
