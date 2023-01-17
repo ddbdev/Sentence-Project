@@ -4,7 +4,7 @@ Far comunicare dei microservizi tra di loro per formare una frase con le parole 
 
 # Team A:
 
-<p align="left">Di Bella Danilo - https://github.com/ddbdev</p>
+<p align="left">Danilo Di Bella - https://github.com/ddbdev</p>
 <p align="left">Davide D'Emilio - https://github.com/DavideDem</p>
 <p align="left">Giuseppe Carobelli - https://github.com/giucar89</p>
  
